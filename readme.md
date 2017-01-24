@@ -9,4 +9,3 @@ Creating models/schema you will need
 
 [https://devcenter.heroku.com/articles/getting-started-with-rails4](https://devcenter.heroku.com/articles/getting-started-with-rails4)
 
-Check out.
